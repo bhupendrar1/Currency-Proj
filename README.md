@@ -60,7 +60,7 @@ currency-converter/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/bhupendrar1/Currency-Proj.git
 ```
 
 ### 2️⃣ Install dependencies
